@@ -1,5 +1,6 @@
-package com.pskwierc;
+package com.pskwierc.demo;
 
+import com.pskwierc.demo.DemoAppConfig;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
 public class MyDispatcherServletInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {

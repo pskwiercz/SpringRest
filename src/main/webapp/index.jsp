@@ -3,11 +3,11 @@
     <title>HomePage</title>
 </head>
 <body>
-<h3>Spring REST demo</h3>
+<h3>Spring REST Students demo</h3>
 
     <hr>
 
-    <a href="${pageContext.request.contextPath}/rest/hello">Test REST</a>
+    <a href="${pageContext.request.contextPath}/api/students">Get list of students</a>
 
 </body>
 </html>
